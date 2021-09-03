@@ -1,0 +1,42 @@
+html {
+   font-size: 15px;
+   line-height: 15px;
+   font-family: "Lato", sans-serif;
+   background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align:center ; 
+}
+
+a {
+    color: rgb(202, 29, 194);
+} 
+
+a:link {
+    text-decoration: none;
+  }
+  
+a:hover {
+    font-weight: bold;
+    color: rgb(0, 26, 255);
+}
+
+span {
+    color: rgb(228, 147, 26);
+    font-weight: 900;
+}
+
+.boxes {
+  border: 5px solid black;
+  margin: 10pt;
+  padding: 10pt;  
+  border-radius: 3em;
+  width: 30em;
+
+}
+
+.boxes {
+background-color: lavenderblush;
+}
+
